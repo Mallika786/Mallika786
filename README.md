@@ -13,6 +13,6 @@ I am currently working on several projects that are helping me enhancing my prog
 My primary goal is to pursue a career in software development, where I can utilize my skills and creativity to develop innovative solutions. I aspire to work on projects that make a positive impact and provide value to users. Alongside this, I strive to contribute to open-source projects and collaborate with a diverse community of developers.
 
 ## Contact
-I am always open to connecting with like-minded individuals and collaborating on interesting projects. Feel free to reach out to me via email at [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+I am always open to connecting with like-minded individuals and collaborating on interesting projects. Feel free to connect with me on https://www.linkedin.com/in/mallika-muskan-719b44265.
 
 Thank you for taking the time to read about me. I look forward to exciting opportunities and continuous growth in the world of technology!
