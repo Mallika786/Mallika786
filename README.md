@@ -1,5 +1,5 @@
 ## Introduction
-Hello! I'm Mallika Muskan, a 3rd-year IT student with a passion for exploring new technologies and programming languages. I have a solid foundation in various programming languages such as HTML, CSS, JavaScript, C++, C, and Python. I believe in continuous learning and staying up-to-date with the latest trends in the tech industry.
+Hello! I'm Mallika Muskan, a 3rd-year IT student with a passion for exploring new technologies and programming languages. I have a basic knowledge in various programming languages such as C++, C, and Python. I believe in continuous learning and staying up-to-date with the latest trends in the tech industry.
 
 ## Interests
 I am enthusiastic about diving into new projects and pushing my boundaries to learn and grow as a developer. I am particularly interested in web development, where I enjoy creating visually appealing and user-friendly interfaces. I am also open to exploring other domains within the field of IT and am eager to expand my knowledge and skills.
