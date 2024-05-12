@@ -1,18 +1,18 @@
-👋 **Welcome to Mallika Muskan's Profile!** 👩‍💻
+# Hi there! 👋 I'm Mallika Muskan
 
-### Introduction
-Hey there! I'm Mallika Muskan, a 4th-year IT student passionate about exploring the world of technology! 🌟 I've got a knack for learning new programming languages like C++, C, and Python, and I'm all about staying updated with the latest trends in tech! 🚀
+An IT student, passionate techie, and explorer who loves to dive into different tech stacks.
 
-### Interests
-I love diving into new projects and pushing my limits to grow as a developer! 🌱 Web development is my jam – I enjoy crafting visually stunning and user-friendly interfaces! 🖥️ But hey, I'm open to exploring all corners of IT and expanding my skills! 🌐
+## About Me
 
-### Projects
-Currently, I'm knee-deep in several exciting projects, honing my programming chops and gaining hands-on experience! 💼 Here's a sneak peek:
-- [Project 1]: A responsive website using HTML, CSS, and JavaScript.
-- [Project 2]: Developing an AI/ML-based technique for early detection of liver ailments! 🧠💊 Stay tuned for updates on this groundbreaking project!
+- 🌱 I’m currently learning Web Development.
+- 👯 I’m looking to collaborate on Web Development Projects.
+- 📫 How to reach me: mallikamuskan786@gmail.com
 
-### Goals
-My ultimate goal? To carve out a career in software development, where I can unleash my creativity and skills to build groundbreaking solutions! 🚀 I'm all about projects that make a positive impact and bring value to users! 💡 Plus, I'm keen on contributing to open-source projects and collaborating with a diverse community of developers! 🌍
+## Connect with Me
 
-### Contact
-Looking to connect or collaborate? I'm all ears! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mallika-muskan-719b44265) – let's make some tech magic happen! 💬
+- LinkedIn: [mallika-muskan](https://www.linkedin.com/in/mallika-muskan)
+- GitHub: [mallikamuskan](https://github.com/Mallika786)
+
+## Languages and Tools
+
+![Arduino](images/arduino.png) ![Azure](images/azure.png) ![C](images/c.png) ![C++](images/cplusplus.png) ![CSS3](images/css3.png) ![GCP](images/gcp.png) ![Git](images/git.png) ![HTML5](images/html5.png) ![Java](images/java.png) ![Linux](images/linux.png) ![MySQL](images/mysql.png) ![Python](images/python.png) ![scikit-learn](images/scikit_learn.png)
