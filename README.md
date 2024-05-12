@@ -13,6 +13,3 @@ An IT student, passionate techie, and explorer who loves to dive into different 
 - LinkedIn: [mallika-muskan](https://www.linkedin.com/in/mallika-muskan)
 - GitHub: [mallikamuskan](https://github.com/Mallika786)
 
-## Languages and Tools
-
-![Arduino](images/arduino.png) ![Azure](images/azure.png) ![C](images/c.png) ![C++](images/cplusplus.png) ![CSS3](images/css3.png) ![GCP](images/gcp.png) ![Git](images/git.png) ![HTML5](images/html5.png) ![Java](images/java.png) ![Linux](images/linux.png) ![MySQL](images/mysql.png) ![Python](images/python.png) ![scikit-learn](images/scikit_learn.png)
