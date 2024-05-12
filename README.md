@@ -14,7 +14,6 @@ An IT student, passionate techie, and explorer who loves to dive into different 
 - GitHub: [mallikamuskan](https://github.com/Mallika786)
 
 ## Languages and Tools
-
 ![C](images/C.png) ![C++](images/C++.jpeg) ![CSS3](images/CSS.jpeg) ![Java](images/Java.png) ![Linux](images/linux.png) ![MySQL](images/mysql.jpeg) ![Python](images/Python.jpeg) ![Jupyter_notebook](images/jp.png)
 
 ## Languages used
